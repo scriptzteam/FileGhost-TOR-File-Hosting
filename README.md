@@ -3,7 +3,12 @@
 
 ***Files are encrypted using AES-256-CBC cipher, the private key is never stored on the server.***
 
-Site:
+***Site:***
 ```
 http://ylvvb4venmh3ek4xdvvvxfjdpiaqzozxcvtcbbd7z2u7bxzzd46t75id.onion/
+```
+
+***Logs:***
+```
+There are ZERO logs (/dev/null)
 ```
